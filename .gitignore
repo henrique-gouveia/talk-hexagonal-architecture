@@ -1,0 +1,13 @@
+/.vs
+/.vscode
+/.idea
+/packages
+bin
+obj
+lib
+docs
+*.user
+*.nupkg
+*.suo
+*.nuspec
+*.db
