@@ -4,7 +4,7 @@ Project written in C# and built around essential features of the .NET6 that uses
 
 ## Getting Started
 
-    git clone https://github.com/henrique-gouveia/talk_hexagonal_architecture.git
+    git clone https://github.com/henrique-gouveia/talk-hexagonal-architecture.git
     cd talk_hexagonal_architecture
 
 ### Build
